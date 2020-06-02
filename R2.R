@@ -62,9 +62,6 @@ arr1 = array(c('R', 'P', 'S', 'D'), dim = c(3,3,2))
 print(arr1) 
 
 
-arr2 = array(c(1,4,5), dim = c(2,2,3))
-print(arr2) 
-
 #Creating Factors 
 
 Mangos <- c('gopalvog', 'Fajli', 'Lengcha', 'Lengcha','Mohonvog', 'gopalvog','gopalvog', 'gopalvog','gopalvog')
